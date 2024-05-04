@@ -9,3 +9,4 @@ datasets/
 models/*
 !models/attributercnn.py
 __pycache__
+.idea/
